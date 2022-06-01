@@ -1,0 +1,34 @@
+{
+	"name": "Uniswap Labs List",
+	"timestamp": "2022-04-20T21:00:25.580Z",
+	"version": {
+	  "major": 3,
+	  "minor": 2,
+	  "patch": 0
+	},
+	"tags": {},
+	"logoURI": "ipfs://QmNa8mQkrNKp1WEEeGjFezDmDeodkWRevGFN8JCV7b4Xir",
+	"keywords": [
+	  "uniswap",
+	  "default"
+	],
+	"tokens": [
+	  {
+		"chainId": 97,
+		"address": "0x86cb86977e691ca2864295795C8A871bA6e8dd05",
+		"name": "Gold",
+		"symbol": "GLD",
+		"decimals": 18,
+		"logoURI": "https://assets.coingecko.com/coins/images/13469/thumb/1inch-token.png?1608803028"
+	  },
+	  {
+		"chainId": 97,
+		"address": "0x27189F99F4d9C23A7c0aD9323C17425EFC37B831",
+		"name": "Gao",
+		"symbol": "G",
+		"decimals": 18,
+		"logoURI": "https://assets.coingecko.com/coins/images/13469/thumb/1inch-token.png?1608803028"
+	  }
+	  
+	]
+  }
